@@ -17,7 +17,7 @@ export const metadata: Metadata = {
   },
 };
 
-export default function page({ params }) {
+export default function page() {
   return (
     <section className="cards-section padding-block-100">
       <div className="container">
