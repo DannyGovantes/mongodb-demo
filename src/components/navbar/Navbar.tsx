@@ -9,10 +9,10 @@ export function Navbar() {
         <Link href={"/"}>
           <Image
             className=""
-            src="/mongoDBLeaf.svg"
-            alt="Next.js Logo"
-            width={180}
-            height={37}
+            src="https://companieslogo.com/img/orig/MDB-a12554b6.png?t=1648915248"
+            alt="MongoDBLogo"
+            width={15}
+            height={30}
             priority
           />
         </Link>

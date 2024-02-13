@@ -24,17 +24,17 @@ export default function Home() {
           <div className="hero-section">
             <Image
               className=""
-              src="/mongoDB.svg"
-              alt="Next.js Logo"
+              src="https://companieslogo.com/img/orig/MDB_BIG-ad812c6c.png?t=1648915248"
+              alt="MongoDB logo"
               width={180}
-              height={37}
+              height={48}
               priority
             />
             <h1>Next.js: A Unified Solution for React Applications</h1>
             <p>
               This demo show some of the capabilities of Next.Js; how does it
-              helps the SEO and the structure of the app directory to help
-              developers in a fullstack framework
+              help the SEO and demonstrate the structure of the app directory to
+              help developers in a fullstack enviroment.
             </p>
           </div>
         </div>
@@ -76,7 +76,7 @@ export default function Home() {
                     Folder Structure to Routes <span>-&gt;</span>
                   </h2>
                   <p>
-                    This is an example for how Next.js handles the folder
+                    This is an example of how Next.js handles the folder
                     structure. Showcasing the following routes:
                     <code className="code">src/app/dashboard/settings</code>
                     <code className="code">
